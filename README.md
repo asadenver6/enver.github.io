@@ -1,7 +1,7 @@
 # Data Scientist
 
 - Technical Skills: Python, SQL, R, Power BI, Qlik Sense, MATLAB, C++
-                       - ![Python](/assets/rsz_pic_asad.png)
+![Python](/assets/python.png)
 
 ### Education
 
