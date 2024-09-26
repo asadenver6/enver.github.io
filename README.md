@@ -1,7 +1,7 @@
 # Data Scientist
 
 - Technical Skills: Python, SQL, R, Power BI, Qlik Sense, MATLAB, C++
-- ![Python](/assets/python.png)
+- ![Python](/assets/python2.jpeg.jfif)
 
 ### Education
 
