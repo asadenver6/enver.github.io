@@ -1,7 +1,5 @@
 ## All things Data Science & Data Analytics
 
-- Technical Skills: Python, SQL, R, Power BI, Qlik Sense, MATLAB, C++
-- ![Python](/assets/python2.jpeg.jfif)
 
 📍 **Stockholm, Sweden**
 
@@ -17,7 +15,7 @@ Diverse academic & work background combining Data Science, Machine Learning, Ana
 
 - **Data Scientist** - H&M, Stockholm (2022- Present)
 - **BI Developer/ Data Scientist** - Telenor, Stockholm (2021-2022)
-- **Marketing Data Scientist & Content Creator** - PI.EXCHANGE, (2021-2022)
+- **Marketing Data Scientist & Content Creator** - PI.EXCHANGE, Freelance (2021-2022)
 - **Digital Strategist** - TkXel, Lahore (2018-2019)
 - **Sales Analyst** - Bayzat, Dubai (2017-2018)
 
