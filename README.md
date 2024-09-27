@@ -3,18 +3,24 @@
 - Technical Skills: Python, SQL, R, Power BI, Qlik Sense, MATLAB, C++
 - ![Python](/assets/python2.jpeg.jfif)
 
-### Education
+### Education 🎓
 
 - Masters, Statistics & Machine Learning | Linköping University (June 2021)
 - Bachelors, Electrical Engineering | Lahore University of Management Sciences (August 2016)
 
-### Work Experience
+### Work Experience 🌟
 
 - **Data Scientist** - H&M, Stockholm (2022- Present)
 - **BI Developer/ Data Scientist** - Telenor, Stockholm (2021-2022)
 - **Marketing Data Scientist & Content Creator** - PI.EXCHANGE, (2021-2022)
 - **Digital Strategist** - TkXel, Lahore (2018-2019)
 - **Sales Analyst** - Bayzat, Dubai (2017-2018)
+
+  ### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R, DAX
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** GCP, Git
+- **Specialties:** LLMs, Generative AI, NLP
 
 #### BI Analyst @ H&M
 - Working on various projects in different business domains (Expansion, Customer Experience) to provide insights using data analysis and data visualization in Power BI to inculcate data-driven decision-making culture within the company
