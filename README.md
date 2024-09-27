@@ -10,8 +10,11 @@
 
 ### Work Experience
 
-#### Data Scientist @ H&M
-- Engaged in diverse projects spanning product return analysis, building machine learning models to improve demand forecasting, working with multimodal embeddings model to help Assortment Group with flexible semantic search and exploration of Generative AI applications for product data enrichment and language translations.
+- **Data Scientist** - H&M, Stockholm (2022- Present)
+- **BI Developer/ Data Scientist** - Telenor, Stockholm (2021-2022)
+- **Marketing Data Scientist & Content Creator** - PI.EXCHANGE, (2021-2022)
+- **Digital Strategist** - TkXel, Lahore (2018-2019)
+- **Sales Analyst** - Bayzat, Dubai (2017-2018)
 
 #### BI Analyst @ H&M
 - Working on various projects in different business domains (Expansion, Customer Experience) to provide insights using data analysis and data visualization in Power BI to inculcate data-driven decision-making culture within the company
