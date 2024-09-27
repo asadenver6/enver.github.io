@@ -1,7 +1,12 @@
-# Data Scientist
+## All things Data Science & Data Analytics
 
 - Technical Skills: Python, SQL, R, Power BI, Qlik Sense, MATLAB, C++
 - ![Python](/assets/python2.jpeg.jfif)
+
+📍 **Stockholm, Sweden**
+
+### About Me 🌐
+Diverse academic & work background combining Data Science, Machine Learning, Analytics, Strategy & Marketing with 5+ years of experience in different countries: Sweden, UAE & Pakistan
 
 ### Education 🎓
 
@@ -16,20 +21,11 @@
 - **Digital Strategist** - TkXel, Lahore (2018-2019)
 - **Sales Analyst** - Bayzat, Dubai (2017-2018)
 
-  ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, R, DAX
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** GCP, Git
-- **Specialties:** LLMs, Generative AI, NLP
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R, DAX, MATLAB
+- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Plotly, NLTK, SpaCy
+- **Cloud Services:** GCP
+- **AI:** Machine Learning, Deep Learning, NLP & Generative AI
+- **BI/ Data Visualization:** Power BI, Qlik Sense, Tableau
 
-#### BI Analyst @ H&M
-- Working on various projects in different business domains (Expansion, Customer Experience) to provide insights using data analysis and data visualization in Power BI to inculcate data-driven decision-making culture within the company
 
-#### BI Developer @Telenor
-- Develop an understanding of Fixed business and visualize the data to automate the decision-making process for business stakeholders by building an end-to-end application in Qlik Sense for Broadband & TV
-
-#### Data Scientist (Master Thesis) @ Telenor
-- Built regression models using gradient boosted decision trees and neural networks to estimate the resolution time of trouble tickets generated automatically to improve resource allocation & enhance customer experience
-
-#### Marketing Data Scientist and Content Creater @ PI.EXCHANGE 
-- Implement data science algorithms in python and on the AI & Advanced Analytics Engine to draw a comparison between code vs. no code machine learning
